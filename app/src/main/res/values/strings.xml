@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="cake">Cake</string>
+    <string name="more_cookies">More Cookies!</string>
+</resources>
